@@ -1,0 +1,4 @@
+Flask==2.3.3
+gTTS==2.5.1
+playsound==1.2.2
+gunicorn==20.1.0
